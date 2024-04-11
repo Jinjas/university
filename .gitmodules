@@ -10,3 +10,6 @@
 [submodule "Thirdyear-firstsem/cc"]
 	path = Thirdyear-firstsem/cc
 	url = git@github.com:JPCG-27/cc.git
+[submodule "Thirdyear-firstsem/DSS/trabalho-dss-grupo-50"]
+	path = Thirdyear-firstsem/DSS/trabalho-dss-grupo-50
+	url = git@github.com:LEI-DSS/trabalho-dss-grupo-50.git
