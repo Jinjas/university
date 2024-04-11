@@ -1,0 +1,6 @@
+[submodule "Firstyear-SecSem/Firstyear-SecSem/LI3"]
+	path = Firstyear-SecSem/Firstyear-SecSem/LI3
+	url = git@github.com:Jinjas/LI2.git
+[submodule "Firstyear-SecSem/LI2"]
+	path = Firstyear-SecSem/LI2
+	url = git@github.com:Jinjas/LI2.git
