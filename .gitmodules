@@ -7,3 +7,6 @@
 [submodule "Thirdyear-SecSem/IPM/aula-08-routing-e-fetch-api-aula8_a100534"]
 	path = Thirdyear-SecSem/IPM/aula-08-routing-e-fetch-api-aula8_a100534
 	url = git@github.com:UMinho-ENGINF-IPM/aula-08-routing-e-fetch-api-aula8_a100534.git
+[submodule "Thirdyear-firstsem/cc"]
+	path = Thirdyear-firstsem/cc
+	url = git@github.com:JPCG-27/cc.git
