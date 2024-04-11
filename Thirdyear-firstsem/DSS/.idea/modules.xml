@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSS.iml" filepath="$PROJECT_DIR$/.idea/DSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Turmas3Lvsc/Turmas3Lvsc.iml" filepath="$PROJECT_DIR$/Turmas3Lvsc/Turmas3Lvsc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalho-dss-grupo-50/trabalho-dss-grupo-50.iml" filepath="$PROJECT_DIR$/trabalho-dss-grupo-50/trabalho-dss-grupo-50.iml" />
+    </modules>
+  </component>
+</project>

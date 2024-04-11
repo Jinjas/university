@@ -1,0 +1,59 @@
+l.pontos = mallloc(sizeof(int) * Max)
+-> tamanho de cada cena que quero alocar * numero de coisas que quero alocar
+free (l.pontos)
+-> dps lembrar de fazer free do espaço
+if (new == NULL) return 1;
+-> verificar sempre se o malloc foi feito
+-> se quisere aumentar : numa variavel nova cria-se o malloc com o dobro do tamanho: 
+
+ponto new = mallloc(2* l -> capacidade* sizeof(ponto))
+if (new == NULL) return 1;
+for (int i =0; i < l-> tamanho ; i++) new[i] = l-> pontos [i];   <- copia l para new 
+free(l->pontos);    <- liberta o espaço antigo
+l->pontos = new;    <- atualiza o endereço
+l->capacidade *= 2; <- aumenta a capacidade
+
+o realloc é um malloc mas ve se pode aumentar ja la no sitio se nao conseguir faz o malloc e copia td
+
+
+
+
+
+        _                    ___   __     __                       __                __ 
+  /\   | \ \    /  / \  | \ |     /      |  \  |  |\   |    /\    |  \  |     /\    /   
+ /__\  |_/  \  /  |   | |_/ |---   \     | _/  |  | \  |   /  \   |__/  |    /  \   \__ 
+/    \ | \   \/    \ /  | \ |___  __/    |  \  |  |  \ |  /____\  |  \  |   /____\     \ 
+                                         |__/  |  |   \| /      \ |   \ |  /      \  __/ 
+ARVORES BINARIAS
+
+tipedef struct abin_no{
+
+    int valor;
+    struct abin_no *esq, *direc;
+} *abin;
+
+          |||||||
+             |
+             |
+             v
+        3 ||||  |||| 
+           /      \
+          /        \                                     // |||||||-> poiters
+         v          v
+   5 NULL NULL   8 NULL NULL
+
+          |||||||
+             |
+             |
+             v
+             3
+        ||||  |||| 
+         /      \
+        /        \
+       v          v
+       5          8
+   NULL NULL  NULL NULL
+   
+
+
+

@@ -1,0 +1,6 @@
+--> stack tem 2 operaçoes
+        push --> por coisas na stack
+        pop --> retirar coisas da stack
+
+
+-- no trabalo a stack é aconselhavel ter memoria dinamica

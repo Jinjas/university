@@ -1,0 +1,3 @@
+stdin   [0]-->/etc/passwd
+stdout  [1]-->saida.txt --> terminal
+stderror[2]-->erros.txt

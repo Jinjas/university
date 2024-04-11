@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Ficha4/Ficha4.iml" filepath="$PROJECT_DIR$/IdeaProjects/Ficha4/Ficha4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Ficha6/Ficha6.iml" filepath="$PROJECT_DIR$/IdeaProjects/Ficha6/Ficha6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/FitnessProject/FitnessProject.iml" filepath="$PROJECT_DIR$/IdeaProjects/FitnessProject/FitnessProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/ficha3.java/ficha3.java.iml" filepath="$PROJECT_DIR$/IdeaProjects/ficha3.java/ficha3.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/ficha5/ficha5.iml" filepath="$PROJECT_DIR$/IdeaProjects/ficha5/ficha5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/notaula8/notaula8.iml" filepath="$PROJECT_DIR$/IdeaProjects/notaula8/notaula8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/poo.iml" filepath="$PROJECT_DIR$/.idea/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project (copy)/project (copy).iml" filepath="$PROJECT_DIR$/project (copy)/project (copy).iml" />
+    </modules>
+  </component>
+</project>
