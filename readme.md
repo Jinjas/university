@@ -1,4 +1,7 @@
-*Classes from University of Minho
-***First year
-***Second year
-***Third year
+*Classes from University of Minho*
+
+***First year***
+
+***Second year*** 
+
+***Third year***
