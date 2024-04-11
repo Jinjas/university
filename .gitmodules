@@ -4,3 +4,6 @@
 [submodule "Secyear-SecSem/poo/POO"]
 	path = Secyear-SecSem/poo/POO
 	url = git@github.com:MarianaSilva659/POO.git
+[submodule "Thirdyear-SecSem/IPM/aula-08-routing-e-fetch-api-aula8_a100534"]
+	path = Thirdyear-SecSem/IPM/aula-08-routing-e-fetch-api-aula8_a100534
+	url = git@github.com:UMinho-ENGINF-IPM/aula-08-routing-e-fetch-api-aula8_a100534.git
