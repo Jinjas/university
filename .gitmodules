@@ -13,3 +13,6 @@
 [submodule "Thirdyear-firstsem/DSS/trabalho-dss-grupo-50"]
 	path = Thirdyear-firstsem/DSS/trabalho-dss-grupo-50
 	url = git@github.com:LEI-DSS/trabalho-dss-grupo-50.git
+[submodule "Thirdyear-SecSem/ADI"]
+	path = Thirdyear-SecSem/ADI
+	url = git@github.com:Jinjas/ADI.git
