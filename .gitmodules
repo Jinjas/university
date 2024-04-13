@@ -16,3 +16,6 @@
 [submodule "Thirdyear-SecSem/ADI"]
 	path = Thirdyear-SecSem/ADI
 	url = git@github.com:Jinjas/ADI.git
+[submodule "Thirdyear-firstsem/LI4/LeiloesOnline"]
+	path = Thirdyear-firstsem/LI4/LeiloesOnline
+	url = git@github.com:Ze-Limao/LeiloesOnline.git
